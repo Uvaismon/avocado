@@ -206,6 +206,3 @@ DecryptButton.grid(row=3,column=0)
 ExitButton=Button(menuwindow,text='Exit',command=menuwindow.destroy,fg='green',height=3,width=8)
 ExitButton.grid(row=4,column=0)
         
-
-#cipher.encrypt()
-#main=Authenticate()
